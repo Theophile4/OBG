@@ -9,6 +9,7 @@ TagManager:
   - Western Wall
   - Ennemy 1
   - Ennemy 2
+  - Ennemy 3
   layers:
   - Default
   - TransparentFX
