@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: SavedVariables
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"BestScore","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"BestScore","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"100","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"80","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"60","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"40","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"20","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"OFF","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []

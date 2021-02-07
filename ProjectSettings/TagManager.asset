@@ -7,9 +7,24 @@ TagManager:
   - Sol
   - Eastern Wall
   - Western Wall
-  - Ennemy 1
-  - Ennemy 2
-  - Ennemy 3
+  - Cursor
+  - Undefined
+  - Plate
+  - Piano
+  - Whiskey
+  - Enemy
+  - TV
+  - Don Lino
+  - Bird Cage
+  - Contract
+  - Photo
+  - Cat
+  - Banana
+  - Bed
+  - Car
+  - Right Trigger
+  - Middle Trigger
+  - Left Trigger
   layers:
   - Default
   - TransparentFX
